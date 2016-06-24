@@ -1,0 +1,5 @@
+build:
+  get_js:
+    image: node
+    commands:
+    - npm install
