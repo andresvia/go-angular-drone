@@ -2,21 +2,12 @@
   "name": "go-angular",
   "version": "1.0.0",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "tape": "^4.6.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "http://192.168.12.212:3000/ejemplo/go-angular.git"
-  },
-  "description": ""
+    "tape": "4.6.0",
+    "angular-material": "1.0.9",
+    "angular-animate": "1.5.7",
+    "angular-aria": "1.5.7",
+    "browserify": "13.0.1"
+  }
 }
